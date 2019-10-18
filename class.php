@@ -1,3 +1,5 @@
+<?php
+
 class getNumberFromImageController 
 {
     public $conf = [];
@@ -885,3 +887,4 @@ class getNumberFromImageController
     }
 
 }
+?>
